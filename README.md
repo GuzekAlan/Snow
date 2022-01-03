@@ -1,2 +1,2 @@
 # Snow
-Simple snow written in JS using |canvas|
+Simple snow written in JS using canvas.
